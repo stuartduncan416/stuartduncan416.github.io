@@ -1,3 +1,10 @@
 title: "Stuart Duncan's Portfolio"
 description: "A central hub highlighting my GitHub projects and work."
 theme: jekyll-theme-minima
+
+# Header Navigation Controls
+header_pages:
+  - README.md
+  - about.md
+
+
